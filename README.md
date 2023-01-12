@@ -3,6 +3,8 @@
 ## Description
 Web accessibility is an increasingly important consideration for businesses. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities can't access their website. The changes made should make this website more accessible and with better responsiveness.
 
+
+
 ## Deployment Link
 
 ## User Story
@@ -26,8 +28,6 @@ THEN I find a concise, descriptive title
 ## Installation
 
 N/A
-
-## Usage
 
 ## License
 MT License
