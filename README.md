@@ -3,6 +3,8 @@
 ## Description
 Web accessibility is an increasingly important consideration for businesses. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities can't access their website. The changes made should make this website more accessible and with better responsiveness.
 
+I really enjoyed working on this project. Given the user story, I was able to accomplish all tasks necessary in the acceptance criteria in order to enhance user optimization.
+
 ![Webpage](./assets/01-html-css-git-homework-demo.png) 
 
 ## Deployment Link
